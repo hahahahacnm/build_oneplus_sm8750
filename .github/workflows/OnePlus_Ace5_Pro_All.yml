@@ -5,11 +5,11 @@ on:
       KERNEL_SUFFIX:
         description: '内核名称修改(默认官方名称可中文、emoji)'
         required: true
-        default: '-android15-8-g013ec21bba94-abogki383916444-4k'
+        default: '-android15-8-g0261dbe3cf7e-ab12786384-4k@小狼哞哞😏'
       KERNEL_TIME:
        description: "内核构建日期更改(默认官核构建时间)"
        required: true
-       default: 'Wed Dec 4 02:11:46 UTC 2024'
+       default: 'Fri Jun 6 13:56:48 UTC 2025'
       suki_branch:
         description: "选择SukiSU分支(Stable=稳定版, Dev=开发版)"
         required: true
